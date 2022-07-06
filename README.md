@@ -1,0 +1,2 @@
+- building Landing Page used to tailwindcss
+- file figma: https://www.figma.com/file/FynW2GcJFYna570UxmQWP3/Food-delivery-app-Ui-kit-(Community)?node-id=513%3A22
