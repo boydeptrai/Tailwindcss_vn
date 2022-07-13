@@ -664,6 +664,10 @@ video {
   display: flex;
 }
 
+.h-8 {
+  height: 2rem;
+}
+
 .h-custom {
   height: 620px;
 }
@@ -680,12 +684,12 @@ video {
   height: 1.5rem;
 }
 
-.h-8 {
-  height: 2rem;
-}
-
 .w-32 {
   width: 8rem;
+}
+
+.w-8 {
+  width: 2rem;
 }
 
 .w-full {
@@ -702,10 +706,6 @@ video {
 
 .w-6 {
   width: 1.5rem;
-}
-
-.w-8 {
-  width: 2rem;
 }
 
 .max-w-2xl {
